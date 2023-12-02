@@ -1,0 +1,24 @@
+Lazymux is python based tool in this tool and collection a of tools for termux users.
+You can easily install some tools by typing number in the easiest way.This tool is especially for lazy people..🙃
+
+installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ git clone https://github.com/Gameye98/Lazymux
+
+$ cd Lazymux 
+
+$ chmod +X *
+
+usage :
+
+$ python2 lazymux.py
+
+Now simply type the number of tool to install that particular tool in termux

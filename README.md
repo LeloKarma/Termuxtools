@@ -1,2 +1,2 @@
-# Termuxtools
-All Termux updated termux tools
+# Termuxcommands
+All Termux updated termux commands

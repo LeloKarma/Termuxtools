@@ -1,0 +1,7 @@
+#nmap installation
+
+$pkg update && upgrade
+
+$pkg install curl
+
+$pkg install nmap

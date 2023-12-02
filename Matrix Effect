@@ -1,0 +1,12 @@
+Make matrix effect in termux ..h@¢ker look in termux..
+Installation :
+
+$ apt update && apt upgrade
+
+$ apt install cmatrix
+
+usage :
+
+Type cmatrix to start matrix effect
+
+$ cmatrix

